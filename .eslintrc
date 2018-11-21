@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "eqeqeq": "off",
+    "curly": "warn",
+    "parserOptions": {},
+    "quotes": ["warn", "double"]
+  },
+  "parserOptions": {
+    "ecmaVersion": 2015
+  }
+}
